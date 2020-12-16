@@ -1,3 +1,5 @@
 # hello-world
-My first repo
-Getting my Git on...commiting to the process.
+My first repo.
+Getting my Git on.
+Commiting to the process.
+Pull knowledge request.
